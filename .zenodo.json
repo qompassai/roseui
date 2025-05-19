@@ -1,12 +1,12 @@
 {
-  "title": "open-webui",
-  "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "title": "roseui",
+  "description": "Rose UI",
   "license": "Q-CDA-1.0",
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "v0.5.20-4-gb03fc97e2-dirty",
-  "publication_date": "2025-05-17",
+  "version": "5277f0b",
+  "publication_date": "2025-05-18",
   "creators": [
     {
       "name": "Porter, Matthew A.",
@@ -17,10 +17,10 @@
   ],
   "keywords": ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","frontend","javascript","web"],
   "related_identifiers": [
-    { "identifier": "https://github.com/open-webui/open-webui", "relation": "isSupplementTo", "resource_type": "software" },
-    { "identifier": "https://github.com/open-webui/open-webui/releases/tag/v2025-05-17", "relation": "isIdenticalTo", "resource_type": "software" },
+    { "identifier": "https://github.com/qompassai/roseui", "relation": "isSupplementTo", "resource_type": "software" },
+    { "identifier": "https://github.com/qompassai/roseui/releases/tag/v2025-05-18", "relation": "isIdenticalTo", "resource_type": "software" },
     { "identifier": "https://orcid.org/0000-0002-0302-4812", "relation": "isAuthorOf", "resource_type": "person" },
-    { "identifier": "https://github.com/open-webui/open-webui/actions", "relation": "isCompiledBy", "resource_type": "workflow" },
+    { "identifier": "https://github.com/qompassai/roseui/actions", "relation": "isCompiledBy", "resource_type": "workflow" },
     { "identifier": "https://loop.frontiersin.org/people/2230223", "relation": "isAuthorOf", "resource_type": "person" },
     { "identifier": "https://www.webofscience.com/wos/author/HNQ-0292-2023", "relation": "isIdenticalTo", "resource_type": "person" },
     { "identifier": "https://www.scopus.com/authid/detail.uri?authorId=57385910700", "relation": "isIdenticalTo", "resource_type": "person" }
