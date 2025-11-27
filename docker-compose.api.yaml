@@ -1,0 +1,5 @@
+services:
+  rose:
+    # Expose Rose API outside the container stack
+    ports:
+      - ${ROSE_WEBAPI_PORT-11434}:11434

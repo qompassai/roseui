@@ -1,0 +1,11 @@
+services:
+  rose:
+    # GPU support
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: ${ROSE_GPU_DRIVER-nvidia}
+              count: ${ROSE_GPU_COUNT-1}
+              capabilities:
+                - gpu
